@@ -1,0 +1,27 @@
+{
+    "target_dirs": {
+        "Images": {
+            "exts": [
+                ".jpg",
+                ".png",
+                ".gif"
+            ],
+            "action": "\u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c"
+        },
+        "Documents": {
+            "exts": [
+                ".pdf",
+                ".docx",
+                ".txt"
+            ],
+            "action": "\u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c"
+        },
+        "Music": {
+            "exts": [
+                ".mp3"
+            ],
+            "action": "\u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c"
+        }
+    },
+    "source_dir": "C:/Users/matve/Pictures/Screenshots"
+}
