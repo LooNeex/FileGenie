@@ -1,0 +1,4 @@
+watchdog>=2.1.6
+Pillow>=9.5.0
+pystray>=0.19.3
+plyer>=2.1.0
